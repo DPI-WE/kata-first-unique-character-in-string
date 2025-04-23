@@ -1,0 +1,1 @@
+# kata-first-unique-character-in-string
