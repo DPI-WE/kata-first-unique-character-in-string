@@ -13,4 +13,6 @@ class TestSolution < Minitest::Test
   def test_aabb_returns_negative_1
     assert_equal(-1,"aabb".index_of_first_non_repeating_character)
   end
+
+  # TODO: test edge cases (eg empty string and upper/lower casing)
 end
